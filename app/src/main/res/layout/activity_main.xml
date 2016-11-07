@@ -8,7 +8,7 @@
     android:orientation="horizontal"
     tools:context="com.wanghaisheng.dragview7way.MainActivity">
 
-    <com.wanghaisheng.view.dragview.DragViewByLayout
+    <!--<com.wanghaisheng.view.dragview.DragViewByLayout
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:background="#ff0000"/>
@@ -16,6 +16,11 @@
     <com.wanghaisheng.view.dragview.DragViewByOffset
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:background="#00ff00"/>
+        android:background="#00ff00"/>-->
+
+    <com.wanghaisheng.view.dragview.DragViewByLayoutParams
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#0000ff"/>
 
 </LinearLayout>
