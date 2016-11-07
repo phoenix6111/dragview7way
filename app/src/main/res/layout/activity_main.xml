@@ -22,9 +22,14 @@
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:background="#0000ff"/>-->
-    <com.wanghaisheng.view.dragview.DragViewByScrollBy
+    <!--<com.wanghaisheng.view.dragview.DragViewByScrollBy
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:background="#ff0000"/>
+        android:background="#ff0000"/>-->
+
+    <com.wanghaisheng.view.dragview.DragViewByScroller
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#00ff00"/>
 
 </LinearLayout>
